@@ -1,4 +1,4 @@
-## Hi I'm Thet Htar Thu Zar 👋 You can call me Chaw...(It's my nickname)^o^
+## Hi I'm Thet Htar Thu Zar 👋 You can call me Chaw (It's my nickname)^o^
 
 ## 🚀 About Me
 I'm Junior Programmer...
@@ -6,8 +6,8 @@ I'm Junior Programmer...
 - 🌱 I’m currently learning C# ...
 
 ## 🛠️ Skills
--![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![php](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=black)
