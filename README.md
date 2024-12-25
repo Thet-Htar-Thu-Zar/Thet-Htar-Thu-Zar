@@ -15,7 +15,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thet-Htar-Thu-Zar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔗 Contact
-
+- [LinkedIn](linkedin.com/in/thet-htar-thu-zar-427a3b288)
+- [Instagram](https://www.instagram.com/chaw_1712/profilecard/?igsh=MWdvZXg3Mm1iYnF1cg==)
+- [Email](mailto:thethtarthuzar648@gmail.com)
 <!--
 **Thet-Htar-Thu-Zar/Thet-Htar-Thu-Zar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
