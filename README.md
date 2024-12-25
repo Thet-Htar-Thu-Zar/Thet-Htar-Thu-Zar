@@ -1,4 +1,6 @@
-Hi I'm Thet Htar Thu Zar 👋 You can call me Chaw < It's my nickname ^o^ >
+# Hi there! 👋  
+I'm **Thet Htar Thu Zar**, but you can call me **Chaw**!  
+*(That's my nickname ✨^o^)*  
 
 ## 🚀 About Me
 I'm Junior Programmer...
