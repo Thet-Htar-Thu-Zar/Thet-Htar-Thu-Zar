@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=Thet-Htar-Thu-Zar&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thet-Htar-Thu-Zar&theme=bear&hide_border=false)<br/>
