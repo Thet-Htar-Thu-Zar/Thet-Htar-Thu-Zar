@@ -28,7 +28,9 @@ I passionate to be a software engineer. I have ever created projects using HTML,
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thethtarthuzar_812)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chaw_1712/profilecard/?igsh=MWdvZXg3Mm1iYnF1cg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thet-htar-thu-zar-427a3b288/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/chaw_1712/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thet-htar-thu-zar-427a3b288/)
+
 <!--
 **Thet-Htar-Thu-Zar/Thet-Htar-Thu-Zar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
