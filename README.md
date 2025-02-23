@@ -3,9 +3,7 @@
 
 # 🚀 About Me:
 
-- 🔭 I’m currently working on Thetys Company...
-- 🌱 I’m currently learning C# ...
-
+I passionate to be a software engineer. I have ever created projects using HTML, CSS, Javascript, Typescript, C# (.Net, Asp.Net core web api), React, PHP, Laravel, Bootstrap, Tailwind CSS, Shadcn 👩‍💻
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
